@@ -22,7 +22,6 @@ body{
   padding-right: 20px;
   background-color: white;
   text-align: justify;
-
 }
 
 h2 {
@@ -80,16 +79,21 @@ header a:hover{
    color:#C42424;
 }
 
-.footer {
-  height: 75px;
+/*.footer {
+  height: 5px;
   background: white;
   margin: auto;
-  position: relative; /*Added this*/
-  width: 100%;
-}
+  position: relative;
 
 /* Showcase */
 #showcase{
   min-height: 600px;
   align-items: : center;
+}
+
+.footer{
+  background:white;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
