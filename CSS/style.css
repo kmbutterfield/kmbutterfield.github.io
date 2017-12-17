@@ -25,7 +25,10 @@ body{
 
 }
 
-
+h2 {
+  font-weight: bold;
+  font-size: 18px;
+}
 
 header ul{
   margin:0;
