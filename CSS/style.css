@@ -12,6 +12,21 @@ body{
   overflow:hidden;
 }
 
+.information{
+  width: 50%;
+  margin:auto;
+  overflow:hidden;
+  border: 1px solid black;
+  margin-top:50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: white;
+  text-align: justify;
+
+}
+
+
+
 header ul{
   margin:0;
   padding: 0;
@@ -62,9 +77,16 @@ header a:hover{
    color:#C42424;
 }
 
+.footer {
+  height: 75px;
+  background: white;
+  margin: auto;
+  position: relative; /*Added this*/
+  width: 100%;
+}
+
 /* Showcase */
 #showcase{
   min-height: 600px;
-  background:url('../Images/showcase.png') no-repeat;
   align-items: : center;
 }
