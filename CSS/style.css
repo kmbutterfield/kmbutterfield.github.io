@@ -24,6 +24,18 @@ body{
   text-align: justify;
 }
 
+.information2{
+  width: 50%;
+  margin:auto;
+  overflow:hidden;
+  border: 1px solid black;
+  margin-top:40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: white;
+  text-align: justify;
+}
+
 h2 {
   font-weight: bold;
   font-size: 18px;
@@ -87,8 +99,14 @@ header a:hover{
 
 /* Showcase */
 #showcase{
-  min-height: 600px;
+  min-height: 100px;
   align-items: : center;
+}
+
+#showcase2{
+  min-height: 100px;
+  align-items: : center;
+
 }
 
 .footer{
